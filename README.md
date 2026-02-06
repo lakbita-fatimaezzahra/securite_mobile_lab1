@@ -1,4 +1,5 @@
-<img width="1912" height="892" alt="image" src="https://github.com/user-attachments/assets/00701d50-8a1b-4c5e-8127-cb08da9918ca" /># securite_mobile_lab1
+
+# securite_mobile_lab1
 LAB 1 : Mise en place du lab (Mobexler + snapshot clean)
 
 Étape 1 — Télécharger Mobexler (OVA) et tracer le téléchargement
@@ -39,7 +40,9 @@ VirtualBox
 Étape 6 — Préparer la cible Android (choisir 1 option)
 Option B — Émulateur (Genymotion conseillé)
 B1. Démarrer un device Genymotion sur l’hôte
-
+B2. Connecter ADB
+adb connect <IP_DEVICE>:5555
+adb devices
 
 
 
