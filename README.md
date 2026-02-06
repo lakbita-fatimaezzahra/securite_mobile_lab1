@@ -28,9 +28,11 @@ Adapter 2 : Host-Only Adapter
 
 Étape 4 — Vérifier le réseau (tests “santé”)
 1 Vérifier IPs
-<img width="1912" height="892" alt="image" src="https://github.com/user-attachments/assets/600e0623-6d6a-473e-b0b1-ab60b8bdf552" />
+<img width="1860" height="703" alt="image" src="https://github.com/user-attachments/assets/0250df31-e05a-4d44-89c7-db53ef295f6c" />
+
 2 Vérifier route par défaut
-<img width="1454" height="225" alt="image" src="https://github.com/user-attachments/assets/f5cfb12d-c321-4c3a-9962-f41603dff31e" />
+<img width="1413" height="288" alt="image" src="https://github.com/user-attachments/assets/21e3da69-bbf9-4290-9902-a7f739a72429" />
+
 3 Tester Internet
 <img width="1457" height="394" alt="image" src="https://github.com/user-attachments/assets/de55706f-6f6d-49fb-94f8-056de7163b03" />
 <img width="1680" height="371" alt="image" src="https://github.com/user-attachments/assets/d8caf6f9-176b-4822-9ae2-e22e02498507" />
@@ -40,9 +42,11 @@ VirtualBox
 Étape 6 — Préparer la cible Android (choisir 1 option)
 Option B — Émulateur (Genymotion conseillé)
 B1. Démarrer un device Genymotion sur l’hôte
+<img width="1563" height="987" alt="image" src="https://github.com/user-attachments/assets/c2059617-1337-4d3b-bef1-e07a7fb6e26e" />
+
 B2. Connecter ADB
-adb connect <IP_DEVICE>:5555
-adb devices
+<img width="1418" height="431" alt="image" src="https://github.com/user-attachments/assets/ce9e8f26-1657-4f16-9082-22521c314882" />
+
 
 
 
