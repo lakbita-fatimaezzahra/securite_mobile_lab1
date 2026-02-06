@@ -11,6 +11,7 @@ LAB 1 : Mise en place du lab (Mobexler + snapshot clean)
 2 Vérifier l’intégrité (recommandé)
       Si la page officielle fournit un SHA256, calculer le hash local et comparer.
 Windows (PowerShell)
+<img width="1383" height="228" alt="image" src="https://github.com/user-attachments/assets/2ca2ed75-9b73-4d72-a542-a7536ab5f7f8" />
 
 Étape 2 — Importer l’OVA dans VirtualBox/VMware
 1. VirtualBox → File → Import Appliance
